@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Arrays&amp;Strings.iml" filepath="$PROJECT_DIR$/Arrays&amp;Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetBookTencent.iml" filepath="$PROJECT_DIR$/LeetBookTencent.iml" />
     </modules>
   </component>
 </project>
